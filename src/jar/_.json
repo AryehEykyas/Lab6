@@ -1,0 +1,163 @@
+{
+  "0": [],
+  "1": [],
+  "10": [],
+  "11": [],
+  "12": [
+    {
+      "id": 2,
+      "name": "Dmitriy",
+      "coordinates": {
+        "x": 3,
+        "y": 40
+      },
+      "creationDate": "2024-11-17T13:04:47.984583600",
+      "salary": 248.0,
+      "position": "HUMAN_RESOURCES",
+      "status": "PROBATION",
+      "person": {
+        "birthday": "1995-06-15",
+        "height": 46.0,
+        "passportID": "Tel-Aviv"
+      }
+    }
+  ],
+  "13": [
+    {
+      "id": 2,
+      "name": "Dmitriy",
+      "coordinates": {
+        "x": 3,
+        "y": 40
+      },
+      "creationDate": "2024-11-17T13:04:47.984583600",
+      "salary": 248.0,
+      "position": "HUMAN_RESOURCES",
+      "status": "PROBATION",
+      "person": {
+        "birthday": "1995-06-15",
+        "height": 46.0,
+        "passportID": "Tel-Aviv"
+      }
+    }
+  ],
+  "14": [
+    {
+      "id": 2,
+      "name": "Dmitriy",
+      "coordinates": {
+        "x": 3,
+        "y": 40
+      },
+      "creationDate": "2024-11-17T13:04:47.984583600",
+      "salary": 248.0,
+      "position": "HUMAN_RESOURCES",
+      "status": "PROBATION",
+      "person": {
+        "birthday": "1995-06-15",
+        "height": 46.0,
+        "passportID": "Tel-Aviv"
+      }
+    }
+  ],
+  "15": [
+    {
+      "id": 2,
+      "name": "Dmitriy",
+      "coordinates": {
+        "x": 3,
+        "y": 40
+      },
+      "creationDate": "2024-11-17T13:04:47.984583600",
+      "salary": 248.0,
+      "position": "HUMAN_RESOURCES",
+      "status": "PROBATION",
+      "person": {
+        "birthday": "1995-06-15",
+        "height": 46.0,
+        "passportID": "Tel-Aviv"
+      }
+    }
+  ],
+  "16": [
+    {
+      "id": 2,
+      "name": "Dmitriy",
+      "coordinates": {
+        "x": 3,
+        "y": 40
+      },
+      "creationDate": "2024-11-17T13:04:47.984583600",
+      "salary": 248.0,
+      "position": "HUMAN_RESOURCES",
+      "status": "PROBATION",
+      "person": {
+        "birthday": "1995-06-15",
+        "height": 46.0,
+        "passportID": "Tel-Aviv"
+      }
+    }
+  ],
+  "2": [],
+  "3": [],
+  "4": [
+    {
+      "id": 1,
+      "name": "Aryeh",
+      "coordinates": {
+        "x": 17,
+        "y": 21
+      },
+      "creationDate": "2024-11-17T13:02:26.986213100",
+      "salary": 71600.23,
+      "position": "HUMAN_RESOURCES",
+      "status": "REGULAR",
+      "person": {
+        "birthday": "2004-09-25",
+        "height": 186.2,
+        "passportID": "49917-681"
+      }
+    }
+  ],
+  "5": [
+    {
+      "id": 1,
+      "name": "Aryeh",
+      "coordinates": {
+        "x": 17,
+        "y": 21
+      },
+      "creationDate": "2024-11-17T13:02:26.986213100",
+      "salary": 71600.23,
+      "position": "HUMAN_RESOURCES",
+      "status": "REGULAR",
+      "person": {
+        "birthday": "2004-09-25",
+        "height": 186.2,
+        "passportID": "49917-681"
+      }
+    }
+  ],
+  "6": [
+    {
+      "id": 1,
+      "name": "Aryeh",
+      "coordinates": {
+        "x": 17,
+        "y": 21
+      },
+      "creationDate": "2024-11-17T13:02:26.986213100",
+      "salary": 71600.23,
+      "position": "HUMAN_RESOURCES",
+      "status": "REGULAR",
+      "person": {
+        "birthday": "2004-09-25",
+        "height": 186.2,
+        "passportID": "49917-681"
+      }
+    }
+  ],
+  "7": [],
+  "8": [],
+  "9": []
+}

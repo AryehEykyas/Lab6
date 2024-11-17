@@ -1,0 +1,14 @@
+Чтобы запустить программу:
+
+1. Устновить переменные окружения в командной строке:
+
+set host=127.0.0.1
+set port=5050
+set _.json=_.json
+set main.json=main.json
+set story.json=story.json
+
+1. java -jar server.jar // запуск сервера на host: 127.0.0.1 port: 5050
+2. java -jar client.jar // запуск клиента, где необходимо выполнять команды
+
+script.txt // файл для выполнения команды "execute_script"

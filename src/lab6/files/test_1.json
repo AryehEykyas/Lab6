@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Anton",
+    "coordinates": {
+      "x": -12,
+      "y": 303
+    },
+    "creationDate": "2023-08-11",
+    "salary": 163.5,
+    "position": "HEAD_OF_DIVISION",
+    "status": "FIRED",
+    "person": {
+      "birthday": "1982-01-19T16:41",
+      "eyeColor": "BLUE",
+      "hairColor": "ORANGE",
+      "location": {
+        "x": 93,
+        "y": 180,
+        "name": "Oslo"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sergei",
+    "coordinates": {
+      "x": 46,
+      "y": -23
+    },
+    "creationDate": "2019-12-02",
+    "salary": 514.0,
+    "position": "LEAD_DEVELOPER",
+    "status": "RECOMMENDED_FOR_PROMOTION",
+    "person": {
+      "birthday": "1977-05-09T08:29",
+      "eyeColor": "GREEN",
+      "hairColor": "WHITE",
+      "location": {
+        "x": 81,
+        "y": 132,
+        "name": "Warsaw"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ivan",
+    "coordinates": {
+      "x": 15,
+      "y": 34
+    },
+    "creationDate": "2024-11-02",
+    "salary": 35000.0,
+    "position": "HUMAN_RESOURCES",
+    "status": "REGULAR",
+    "person": {
+      "birthday": "1999-03-15T07:39",
+      "eyeColor": "BLUE",
+      "hairColor": "RED",
+      "location": {
+        "x": 13,
+        "y": 109,
+        "name": "Singapoore"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Dmitriy",
+    "coordinates": {
+      "x": 3,
+      "y": 40
+    },
+    "creationDate": "2024-11-05",
+    "salary": 248.0,
+    "position": "HUMAN_RESOURCES",
+    "status": "PROBATION",
+    "person": {
+      "birthday": "1995-06-15T11:08",
+      "eyeColor": "GREEN",
+      "hairColor": "RED",
+      "location": {
+        "x": 46,
+        "y": 77,
+        "name": "Tel-Aviv"
+      }
+    }
+  }
+]
